@@ -4,7 +4,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-## devMyeong : Developers who will one day make the best games
+## devMyeong : Developer who will one day makes the best games
 
 언젠가는 갓겜을 만들 개발자
 
