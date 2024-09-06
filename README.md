@@ -13,7 +13,7 @@
 - C, C++, STL
 - WinAPI, MFC
 - DirectX 9, 11
-- Unreal Engine 4
+- Unreal Engine 4, 5
 
 <!--
 **devMyeong/devMyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
